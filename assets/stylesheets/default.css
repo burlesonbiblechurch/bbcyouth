@@ -1,3 +1,4 @@
 body { padding-top: 60px; }
 .post { margin-bottom: 2em; }
 .fc-header, .fc-header td, .fc-header td + td { border: none; }
+.topbar .nav li img { float: left; margin-right: .25em; position: relative; top: 1px; }
