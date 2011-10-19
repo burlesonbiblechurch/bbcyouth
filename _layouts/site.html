@@ -1,16 +1,17 @@
 <!doctype html>
 <html>
 <head>
- 
+
   <title>{{ page.title }} | BBC Youth</title>
-  
+
   {% include head.html %}
-  
+
 </head>
 <body>
     {% include header.html %}
     <div class="container">
       {{ content }}
     </div>
+    {% include footer_libs.html %}
 </body>
 </html>
