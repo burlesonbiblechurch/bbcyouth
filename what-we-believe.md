@@ -1,37 +1,46 @@
 ---
 layout: page
 title: What We Believe
---- 
-## Our purpose 
+---
+## Our purpose
 Our purpose is to glorify God by worshipping Him, bringing believers to
 maturity, and proclaiming the gospel message of Jesus Christ to all the world!
 
-## Our mission 
+## Our mission
 Our mission is to make disciples by reaching out primarily to families, building
 them up with relevant worship and truth, and sending them forth to make
 disciples of others. We are committed to loving everyone, excelling in
 everything we do, and developing significant caring relationships.
 
-## Our vision 
+## Our vision
 Our vision is to be a grace-motivated ministry recognized for biblical preaching
 and worship, bold outreach, and committed discipleship and growth.
 
 ## Our Beliefs
-**The Bible.** We believe the Bible is the verbally inspired word of God without
-error in the original writings and of supreme and final authority in faith and
-life (2 Tim. 3:16; 2 Pet. 1:21).
+**The Bible.** We believe the Bible is the verbally inspired word of God
+without error in the original writings and of supreme and final authority in
+faith and life ([2 Tim. 3:16](http://ebible.com/esv/2timothy/3/16); [2 Pet.
+1:21](http://ebible.com/esv/2peter/1/21)).
 
 **The Godhead.** We believe in one God, eternally existing in three different
-but equal persons: Father, Son, and Holy Spirit (Matt. 28:19; 2 Cor. 13:14).
+but equal persons: Father, Son, and Holy Spirit ([Matt.
+28:19](http://ebible.com/esv/matthew/28/19); [2 Cor.
+13:14](http://ebible.com/esv/2corinthians/13/14)).
 
-**The Holy Spirit.** We believe the person of the Holy Spirit existed eternally
-with the Father and the Son (John 15:26; Heb. 9:14), and during this present age
+**The Holy Spirit.** We believe the person of the Holy Spirit existed
+eternally with the Father and the Son ([John
+15:26](http://ebible.com/esv/john/15/26); [Heb.
+9:14](http://ebible.com/esv/hebrews/9/14)), and during this present age
 regenerates those who believe, baptizes them into the body of Christ, and
-indwells them permanently (Titus 3:5; 1 Cor. 12:13).
+indwells them permanently ([Titus 3:5](http://ebible.com/esv/titus/3/5); [1
+Cor. 12:13](http://ebible.com/esv/1corinthians/12/13)).
 
 **The Person of Christ.** We believe Jesus Christ existed eternally with the
-Father and is wholly God (John 1:1-3; 10:30), was conceived by the Holy Spirit,
-born of the virgin Mary, and is also wholly man (Matt. 1:20-23; 1 John 4:2).
+Father and is wholly God ([John 1:1-3](http://ebible.com/esv/john/1/1/-/3);
+[10:30](http://ebible.com/esv/john/10/30)), was conceived by the Holy Spirit,
+born of the virgin Mary, and is also wholly man ([Matt.
+1:20-23](http://ebible.com/esv/matthew/1/20/-/23); [1 John
+4:2](http://ebible.com/esv/1john/4/2)).
 
 **The Saving Work of Christ.** We believe Jesus Christ died on the cross for the
 sins of all people as a substitutionary sacrifice, and that He arose bodily from
