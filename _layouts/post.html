@@ -1,4 +1,14 @@
 ---
-layout: page
+layout: site
+css: post
 ---
-{{ content }}
+<div class="row">
+  <div class="content span12">
+    <h1>{{ page.title }}</h1>
+    <p>Posted on {{ page.date | date_to_long_string }} by {{ page.author }}</p>
+    {{ content }}
+  </div>
+  <div class="sidebar span4">
+    {% include sidebar.html %}
+  </div>
+</div>

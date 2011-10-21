@@ -21,6 +21,12 @@
         }
       ]
     });
+    
+    $('.topbar .nav li').each(function() {
+      if($(this).children('a').first().attr('href') == window.location.pathname) {
+        $(this).addClass('active');
+      }
+    });    
 
   });
 </script>
