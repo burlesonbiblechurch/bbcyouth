@@ -1,5 +1,41 @@
-body { padding-top: 60px; }
-.post { margin-bottom: 2em; }
-.fc-header, .fc-header td, .fc-header td + td { border: none; }
-.topbar .nav li img { float: left; margin-right: .25em; position: relative; top: 1px; }
-.footer { border-top: 1px solid #eee; margin-top: 2em; padding-top: 1em;}
+html { 
+  height: 100%;
+}
+
+body {
+  padding-top: 60px;
+  font-family: 'Droid Sans', sans-serif;
+}
+
+h1, h2, h3 {
+  font-family: 'Comfortaa', 'Droid Sans', sans-serif;
+  font-weight: normal;
+}
+
+.brand {
+  font-family: 'Comfortaa', 'Droid Sans', sans-serif;
+  font-weight: normal;
+}
+
+.post { 
+  margin-bottom: 2em;
+}
+
+.fc-header, 
+.fc-header td,
+.fc-header td + td { 
+  border: none; 
+}
+
+.topbar .nav li img {
+  float: left; 
+  margin-right: .25em;
+  position: relative;
+  top: 1px;
+}
+
+.footer { 
+  border-top: 1px solid #eee;
+  margin-top: 2em;
+  padding-top: 1em;
+}

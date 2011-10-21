@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Home
+css: true
 ---
 # Welcome to BBC Youth!
 

@@ -12,7 +12,7 @@ layout: site
       <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
       <p><em>{{ post.date | date_to_string }}</em></p>
       {{ post.excerpt | markdownify }}
-      <p><a class="btn" href="{{ post.url }}">Read More</a></p>
+      <p><a class="info btn" href="{{ post.url }}">Read More &raquo;</a></p>
     </div>
   {% endfor %}
 </div>

@@ -1,0 +1,36 @@
+html { 
+  background: #404040 url(/assets/images/bg.png) repeat-x;
+}
+
+body {
+  background: none;
+  color: #fff;
+}
+
+.hero-unit {
+  box-shadow: inset 3px 3px 5px rgba(0,0,0,0.2), 1px 1px 1px rgba(255,255,255,0.2);
+  background: #3387de url(/assets/images/welcome.png) no-repeat;
+  padding-right: 325px;
+  padding-top: 20px;
+  padding-bottom: 40px;
+}
+
+.hero-unit h1 {
+  color: #fff;
+  font-size: 48px;
+  margin-bottom: 20px;
+}
+
+.hero-unit a {
+  color: #EEDC94;
+}
+
+a {
+  color: #55a8ff;
+}
+
+h1, h2, h3 { color: #fff; }
+
+.footer {
+  border-top-color: #505050;
+}
