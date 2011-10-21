@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sunday School
-css: true
+css: the-walk
 ---
 
 <div class="hero-unit">

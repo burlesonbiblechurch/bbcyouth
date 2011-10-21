@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Walk
-css: true
+css: the-walk
 ---
 
 <div class="hero-unit">
