@@ -10,12 +10,15 @@ css: the-walk
 
 ### What
 
-Awesomeness
+Come on out for a night of Bible study, games, and snacks (not to mention Wii
+and XBOX!).
 
 ### When
+
 Wednesdays from 7:00-8:45pm
 
 ### Who
+
 Students in grades 7-12
 
 ### Where
@@ -23,5 +26,6 @@ Students in grades 7-12
 At [Burleson Bible Church](/contact/).
 
 ### Why
+
 We exist simply to build relationships with students and through those
 relationships to help the students believe in and walk with Christ.
