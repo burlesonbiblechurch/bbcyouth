@@ -1,7 +1,13 @@
 ---
 layout: page
+title: Sunday School
+css: true
 ---
-# Sunday School
+
+<div class="hero-unit">
+  Current Series:
+</div>
+
 
 We believe that at the heart of the disciple is a solid understanding of God's
 word. This doesn't come solely through being taught, but requires personal Bible

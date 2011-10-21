@@ -1,0 +1,8 @@
+.hero-unit {
+  background: url(/assets/images/thewalk.jpg) no-repeat;
+  padding: 0;
+  width: 700px;
+  height: 394px;
+}
+
+h1 { display: none; }

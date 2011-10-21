@@ -1,8 +1,12 @@
 ---
 layout: page
 title: The Walk
+css: true
 ---
-![](/assets/images/walkdark_200x260.png)
+
+<div class="hero-unit">
+
+</div>
 
 ### What
 
