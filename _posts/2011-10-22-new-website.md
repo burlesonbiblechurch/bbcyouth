@@ -25,7 +25,7 @@ study, games, and snacks (not to mention Wii and XBOX!).
 meet at the same time as the Adult Bible Fellowship, starting between 9:15 and
 9:30am.
 
-**[The Big Event](/big-event/):** _The Big Event_ is our monthly
+**[The Big Event](#):** _The Big Event_ is our monthly
 get-together-and-do-something-realy-fun meeting. Anything from Paintball to
 Dogeball to Bowling, all the youth and their families are invited to each of
 these. Next Big Event: [Bonfire](/2011/10/16/next-big-event-bonfire/)
