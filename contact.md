@@ -8,11 +8,10 @@ map: | http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp
 260 S. Hurst Road<br/>
 Burleson, TX 76028
 
-### Youth Directors:
-[Rick Bartmas](mailto:rickbartmas1@hotmail.com), [Roger Jones](mailto:rokar4jc@cs.com)
-
-### Youth Helpers:
-[Karen Jones](mailto:rokar4jc@cs.com), [Phillip & Caitlin Ridlen](mailto:phillip.and.caitlin@ridlen.net)
+### Youth Leaders:
+[Rick Bartmas](mailto:rickbartmas1@hotmail.com),
+[Caitlin Ridlen](mailto:caitlin+bbcyouth@ridlen.net), and
+[Phillip Ridlen](mailto:phillip+bbcyouth@ridlen.net)
 
 ### BBC Pastors
 [Roger Fankhauser](mailto:roger@burlesonbiblechurch.org)<br/>
