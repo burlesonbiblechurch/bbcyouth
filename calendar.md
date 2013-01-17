@@ -1,5 +1,5 @@
 ---
-layout: calendar
-title: BBC Youth Calendar
+layout: "calendar"
+title: "BBC Youth Calendar"
 ---
 <div id="calendar"></div>

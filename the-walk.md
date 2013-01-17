@@ -1,7 +1,7 @@
 ---
-layout: page
-title: The Walk
-css: the-walk
+layout: "page"
+title: "The Walk"
+css: "the-walk"
 ---
 
 <div class="hero-unit">

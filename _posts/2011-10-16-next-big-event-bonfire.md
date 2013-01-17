@@ -1,8 +1,8 @@
 ---
-layout: post
-title: | Next Big Event: Bonfire!
-author: Phillip
-excerpt: |
+layout: "post"
+title: "Next Big Event: Bonfire!"
+author: "Phillip"
+excerpt:
   We'll be having a bonfire at Rick's house at 7pm on November 19th. Mark your
   calendars and start whittling your mallow roasters! Don't forget your jacket,
   'cause it's gonna be COLD outside!

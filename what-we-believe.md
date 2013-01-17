@@ -1,6 +1,6 @@
 ---
-layout: page
-title: What We Believe
+layout: "page"
+title: "What We Believe"
 ---
 ## Our purpose
 

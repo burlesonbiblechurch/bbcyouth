@@ -1,7 +1,7 @@
 ---
-layout: home
-title: Home
-css: home
+layout: "home"
+title: "Home"
+css: "home"
 ---
 # Welcome to BBC Youth!
 

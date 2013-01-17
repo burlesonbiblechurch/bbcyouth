@@ -1,44 +1,42 @@
-html { 
+html {
   height: 100%;
 }
 
 body {
   padding-top: 60px;
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Lato', sans-serif;
 }
 
 h1, h2, h3 {
-  font-family: 'Comfortaa', 'Source Sans Pro', sans-serif;
   font-weight: normal;
 }
 
 .brand {
-  font-family: 'Comfortaa', 'Source Sans Pro', sans-serif;
   font-weight: normal;
 }
 
-.post { 
+.post {
   margin-bottom: 2em;
 }
 
-.fc-header, 
+.fc-header,
 .fc-header td,
-.fc-header td + td { 
-  border: none; 
+.fc-header td + td {
+  border: none;
 }
 
 .fc-button-content {
-  font-family: Helvetica, Arial, sans-serif;
+  /* font-family: Helvetica, Arial, sans-serif; */
 }
 
 .topbar .nav li img {
-  float: left; 
+  float: left;
   margin-right: .25em;
   position: relative;
   top: 1px;
 }
 
-.footer { 
+.footer {
   border-top: 1px solid #eee;
   margin-top: 2em;
   padding-top: 1em;

@@ -1,4 +1,4 @@
 ---
-layout: news
-title: Latest News
+layout: "news"
+title: "Latest News"
 ---

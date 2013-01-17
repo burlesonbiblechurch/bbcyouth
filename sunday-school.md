@@ -1,7 +1,7 @@
 ---
-layout: page
-title: Sunday School
-css: sunday-school
+layout: "page"
+title: "Sunday School"
+css: "sunday-school"
 ---
 
 <div class="hero-unit">

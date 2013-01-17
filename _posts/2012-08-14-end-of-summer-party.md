@@ -1,8 +1,8 @@
 ---
-layout: post
-title: End of Summer Party on Aug 22!
-author: Phillip
-excerpt: |
+layout: "post"
+title: "End of Summer Party on Aug 22!"
+author: "Phillip"
+excerpt:
   We'll be kicking off the school year and enjoying the last days of summer with
   a grand party! Swimming, games, singing, and of course food!
 ---

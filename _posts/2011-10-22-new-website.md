@@ -1,8 +1,8 @@
 ---
-layout: post
-title: New Website!
-author: Phillip
-excerpt: |
+layout: "post"
+title: "New Website!"
+author: "Phillip"
+excerpt:
   Welcome to the new BBC Youth website. All the latest, up-to-date information
   is available at your disposal. Okay, maybe not. At least we'll do our best.
 ---
