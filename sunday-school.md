@@ -5,7 +5,6 @@ css: "sunday-school"
 ---
 
 <div class="hero-unit">
-  Current Series:
 </div>
 
 
