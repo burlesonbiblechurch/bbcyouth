@@ -7,6 +7,10 @@ body {
   color: #fff;
 }
 
+.news {
+  -webkit-font-smoothing: antialiased;
+}
+
 .hero-unit {
   box-shadow: inset 3px 3px 5px rgba(0,0,0,0.2), 1px 1px 1px rgba(255,255,255,0.2);
   background: #3387de url(/assets/images/welcome.png) no-repeat;

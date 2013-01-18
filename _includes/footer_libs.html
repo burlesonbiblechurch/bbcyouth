@@ -1,8 +1,13 @@
-<script src="/assets/javascripts/jquery-1.6.4.min.js"></script>
-<script src="/assets/javascripts/fullcalendar/jquery-ui-1.8.11.custom.min.js"></script>
+<!-- Base Libraries -->
+<script src="/assets/javascripts/jquery-1.8.1.min.js"></script>
+<script src="/assets/javascripts/jquery-ui-1.8.23.custom.min.js"></script>
+<script src="//netdna.bootstrapcdn.com/twitter-bootstrap/2.2.2/js/bootstrap.min.js"></script>
+
+<!-- FullCalendar -->
 <script src="/assets/javascripts/fullcalendar/fullcalendar.min.js"></script>
 <script src="/assets/javascripts/fullcalendar/gcal.js"></script>
 
+<!-- eBible VerseLink -->
 <script type='text/javascript' src='http://ebible.com/assets/verselink/ebible.verselink.js'></script>
 
 <script>
@@ -21,12 +26,12 @@
         }
       ]
     });
-    
-    $('.topbar .nav li').each(function() {
+
+    $('.navbar .nav li').each(function() {
       if($(this).children('a').first().attr('href') == window.location.pathname) {
         $(this).addClass('active');
       }
-    });    
+    });
 
   });
 </script>
