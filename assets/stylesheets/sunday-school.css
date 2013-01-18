@@ -1,5 +1,5 @@
 .hero-unit {
-  background: url(/assets/images/john.jpg);
+  background: url(../images/john.jpg);
   background-size: cover;
   height: 206px;
   color: #fce9be;

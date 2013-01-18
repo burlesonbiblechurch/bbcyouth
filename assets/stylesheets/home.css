@@ -1,5 +1,5 @@
 html { 
-  background: #404040 url(/assets/images/bg.png) repeat-x;
+  background: #404040 url(../images/bg.png) repeat-x;
 }
 
 body {
@@ -13,7 +13,7 @@ body {
 
 .hero-unit {
   box-shadow: inset 3px 3px 5px rgba(0,0,0,0.2), 1px 1px 1px rgba(255,255,255,0.2);
-  background: #3387de url(/assets/images/welcome.png) no-repeat;
+  background: #3387de url(../images/welcome.png) no-repeat;
   background-size: cover;
   padding-right: 325px;
   padding-top: 20px;

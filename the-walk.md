@@ -23,7 +23,7 @@ Students in grades 7-12
 
 ### Where
 
-At [Burleson Bible Church](/contact/).
+At [Burleson Bible Church]({{ site.baseurl }}/contact/).
 
 ### Why
 
