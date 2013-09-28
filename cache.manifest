@@ -1,12 +1,30 @@
 CACHE MANIFEST
 
-# VERSION 1
+# VERSION 2
 
+# Pages
 /index.html
 /contact/index.html
 
+# Stylesheets
 /assets/stylesheets/default.css
 /assets/stylesheets/home.css
 
+# Javascripts
 /assets/javascripts/fullcalendar/gcal.js
 /assets/javascripts/jquery-ui-1.8.23.custom.min.js
+
+# Images
+/assets/images/welcome.png
+
+# Icons
+/assets/images/facebook_16.png
+/assets/images/facebook_32.png
+/assets/images/favicon.ico
+/assets/images/walk_18.png
+/assets/images/walk_18_black.png
+/assets/images/walk_full.png
+/assets/images/walkdark_16.png
+/assets/images/walkdark_200x260.png
+/assets/images/walkdark_full.png
+
