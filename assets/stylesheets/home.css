@@ -18,16 +18,12 @@
   margin-bottom: 20px;
 }
 
-.hero-unit a {
-  color: #EEDC94;
+.hero-unit a, .hero-unit a:hover {
+  color: #DCEE94;
 }
 
 a {
   color: #55a8ff;
-}
-
-a:hover {
-  color: #0069D6;
 }
 
 .footer {
