@@ -1,8 +1,9 @@
 ---
 layout: "map"
 title: "Contact Us"
-map: "http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Burleson+Bible+Church,+260+South+Hurst+Road,+Burleson,+TX+76028-5007&amp;aq=0&amp;sll=37.9625,-95.677068&amp;sspn=58.598104,97.382812&amp;vpsrc=6&amp;ie=UTF8&amp;hq=Burleson+Bible+Church,&amp;hnear=260+S+Hurst+Rd,+Burleson,+Texas+76028&amp;ll=32.585,-97.302711&amp;spn=0.015466,0.023775&amp;t=m&amp;z=12&amp;iwloc=A&amp;cid=6819896711825489913&amp;output=embed"
+map: "https://www.google.com/maps?t=m&amp;cid=0x5ea523ed11367ff9&amp;ie=UTF8&amp;hq=&amp;hnear=&amp;iwloc=A&amp;ll=32.549,-97.302711&amp;spn=0.007823,0.012373&amp;output=embed&amp;z=14"
 ---
+
 ### Address
 [Burleson Bible Church](http://burlesonbiblechurch.org)<br/>
 260 S. Hurst Road<br/>
