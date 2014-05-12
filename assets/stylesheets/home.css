@@ -37,3 +37,24 @@ a {
 }
 
 .site-error .verse { font-size: 24px; }
+
+@media (max-width: 979px) {
+  #main {
+    margin-top: 10px;
+  }
+
+  .hero-unit {
+    background: none;
+    color: #333;
+    padding: 0;
+    box-shadow: none;
+  }
+
+  .hero-unit h1 {
+    color: #333;
+  }
+
+  .hero-unit a, .hero-unit a:hover {
+    color: #0088cc;
+  }
+}
