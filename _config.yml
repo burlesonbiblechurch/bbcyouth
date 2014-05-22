@@ -1,4 +1,3 @@
-permalink: 'pretty'
-baseurl: ''
+markdown: kramdown
 
 exclude: [ "vendor" ]
