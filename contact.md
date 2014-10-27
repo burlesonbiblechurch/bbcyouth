@@ -10,9 +10,8 @@ map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3363.5017807169884!2
 Burleson, TX 76028
 
 ### Youth Leaders:
-[Rick Bartmas](mailto:rickbartmas1@hotmail.com),
-[Caitlin Ridlen](mailto:caitlin+bbcyouth@ridlen.net), and
-[Phillip Ridlen](mailto:phillip+bbcyouth@ridlen.net)
+[Phillip Ridlen](mailto:phillip+bbcyouth@ridlen.net) &
+[Christina Hester](mailto:cvhstars@yahoo.com)
 
 ### BBC Pastors
 [Roger Fankhauser](mailto:roger@burlesonbiblechurch.org)<br/>

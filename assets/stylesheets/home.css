@@ -1,8 +1,4 @@
-.news {
-  -webkit-font-smoothing: antialiased;
-}
-
-.hero-unit {
+.jumbotron {
   color: #fff;
   box-shadow: inset 3px 3px 5px rgba(0,0,0,0.2), 1px 1px 1px rgba(255,255,255,0.2);
   background: #3387de url(../images/welcome.png) no-repeat;
@@ -12,13 +8,13 @@
   padding-bottom: 40px;
 }
 
-.hero-unit h1 {
+.jumbotron h1 {
   color: #fff;
   font-size: 48px;
   margin-bottom: 20px;
 }
 
-.hero-unit a, .hero-unit a:hover {
+.jumbotron a, .jumbotron a:hover {
   color: #DCEE94;
 }
 
@@ -38,23 +34,23 @@ a {
 
 .site-error .verse { font-size: 24px; }
 
-@media (max-width: 979px) {
+@media (max-width: 768px) {
   #main {
     margin-top: 10px;
   }
 
-  .hero-unit {
+  .jumbotron {
     background: none;
     color: #333;
     padding: 0;
     box-shadow: none;
   }
 
-  .hero-unit h1 {
+  .jumbotron h1 {
     color: #333;
   }
 
-  .hero-unit a, .hero-unit a:hover {
+  .jumbotron a, .jumbotron a:hover {
     color: #0088cc;
   }
 }
