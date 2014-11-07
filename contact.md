@@ -11,7 +11,7 @@ Burleson, TX 76028
 
 ### Youth Leaders:
 [Phillip Ridlen](mailto:phillip+bbcyouth@ridlen.net) &
-[Christina Hester](mailto:cvhstars@yahoo.com)
+[Christina Hester](mailto:stinahester@yahoo.com)
 
 ### BBC Pastors
 [Roger Fankhauser](mailto:roger@burlesonbiblechurch.org)<br/>
