@@ -14,14 +14,15 @@
   $(function() {
 
     $('#calendar').fullCalendar({
+      googleCalendarApiKey: "AIzaSyDPYCJ3udaiCVMWtZVkEVFtQw3tGecp6VI",
       eventSources:[
         {
-          url: 'https://www.google.com/calendar/feeds/1052e6nhrb7jeog2bb8q43lqcc%40group.calendar.google.com/public/basic',
+          googleCalendarId: "1052e6nhrb7jeog2bb8q43lqcc@group.calendar.google.com",
           color: '#476c84'
         },
 
         {
-          url: 'https://www.google.com/calendar/feeds/k8jcm7tk694h59ksv7k3fq4h8o%40group.calendar.google.com/public/basic',
+          googleCalendarId: "k8jcm7tk694h59ksv7k3fq4h8o@group.calendar.google.com",
           color: '#87A967'
         }
       ]
