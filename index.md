@@ -23,7 +23,7 @@ css: "home"
 
     <h3>When is it?</h3>
 
-    <p>The Walk meets on Thursdays from 7-9 at BBC. <a href="/contact">Map & Directions</a></p>
+    <p>The Walk meets on Sundays from 6-8pm at BBC. <a href="/contact">Map & Directions</a></p>
   </div>
 </div>
 
