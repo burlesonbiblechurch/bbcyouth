@@ -13,7 +13,7 @@ css: "home"
     relationships with students and through those relationships to help the students believe in and walk
     with Christ.</p>
 
-    <p>We do this through Sunday school, Sunday night bible study, and fun events that provide
+    <p>We do this through Sunday school, weekly bible study, and fun events throughout the year that provide
     opportunities to engage relationally with students, through which we teach God’s Word.</p>
 
     <h3>Who is it for?</h3>
