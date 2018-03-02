@@ -2,10 +2,6 @@ html {
   height: 100%;
 }
 
-body {
-  font-family: 'Lato', sans-serif;
-}
-
 h1, h2, h3 {
   font-weight: normal;
 }
@@ -24,10 +20,6 @@ h1, h2, h3 {
 
 .post {
   margin-bottom: 2em;
-}
-
-.fc-button-prev, .fc-button-next {
-  font-family: Helvetica, Arial, sans-serif;
 }
 
 .fc-header-title h2 {
