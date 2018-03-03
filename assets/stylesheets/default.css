@@ -1,50 +1,50 @@
-html {
-  height: 100%;
-}
+/* html { */
+/*   height: 100%; */
+/* } */
 
-h1, h2, h3 {
-  font-weight: normal;
-}
+/* h1, h2, h3 { */
+/*   font-weight: normal; */
+/* } */
 
-.navbar-brand {
-  font-weight: normal;
-}
+/* .navbar-brand { */
+/*   font-weight: normal; */
+/* } */
 
-.navbar-brand img {
-  margin-right: 5px;
-}
+/* .navbar-brand img { */
+/*   margin-right: 5px; */
+/* } */
 
-.navbar-header .nav {
-  margin-right: 10px;
-}
+/* .navbar-header .nav { */
+/*   margin-right: 10px; */
+/* } */
 
-.post {
-  margin-bottom: 2em;
-}
+/* .post { */
+/*   margin-bottom: 2em; */
+/* } */
 
-.fc-header-title h2 {
-  font-size: 1.3em;
-}
+/* .fc-header-title h2 { */
+/*   font-size: 1.3em; */
+/* } */
 
-.fc-header,
-.fc-header td,
-.fc-header td + td {
-  border: none;
-}
+/* .fc-header, */
+/* .fc-header td, */
+/* .fc-header td + td { */
+/*   border: none; */
+/* } */
 
-.navbar .nav li img {
-  float: left;
-  margin-right: .25em;
-  position: relative;
-  top: 1px;
-}
+/* .navbar .nav li img { */
+/*   float: left; */
+/*   margin-right: .25em; */
+/*   position: relative; */
+/*   top: 1px; */
+/* } */
 
-.footer {
-  border-top: 1px solid #eee;
-  margin-top: 2em;
-  padding-top: 1em;
-}
+/* .footer { */
+/*   border-top: 1px solid #eee; */
+/*   margin-top: 2em; */
+/*   padding-top: 1em; */
+/* } */
 
-#main {
-  margin-top: 40px;
-}
+/* #main { */
+/*   margin-top: 40px; */
+/* } */
