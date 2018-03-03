@@ -1,14 +1,10 @@
 <!-- Base Libraries -->
-<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.8.1/jquery.min.js"></script>
-<script src="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 
 <!-- FullCalendar -->
-<script src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.6.0/moment.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.20.1/moment.min.js"></script>
 <script src="{{ site.baseurl }}/assets/libs/fullcalendar/fullcalendar.min.js"></script>
-<script src="{{ site.baseurl }}/assets/libs/fullcalendar/gcal.js"></script>
-
-<!-- eBible VerseLink -->
-<script type='text/javascript' src='http://ebible.com/assets/verselink/ebible.verselink.js'></script>
+<script src="{{ site.baseurl }}/assets/libs/fullcalendar/gcal.min.js"></script>
 
 {% include google_analytics.html %}
 
@@ -17,12 +13,11 @@
 
     $('#calendar').fullCalendar({
       googleCalendarApiKey: "AIzaSyDPYCJ3udaiCVMWtZVkEVFtQw3tGecp6VI",
-      eventSources:[
+      eventSources: [
         {
           googleCalendarId: "1052e6nhrb7jeog2bb8q43lqcc@group.calendar.google.com",
           color: '#476c84'
         },
-
         {
           googleCalendarId: "k8jcm7tk694h59ksv7k3fq4h8o@group.calendar.google.com",
           color: '#87A967'
@@ -37,22 +32,4 @@
     });
 
   });
-
-  // Check if a new cache is available on page load.
-  window.addEventListener('load', function(e) {
-
-    window.applicationCache.addEventListener('updateready', function(e) {
-      if (window.applicationCache.status == window.applicationCache.UPDATEREADY) {
-        // Browser downloaded a new app cache.
-        // Swap it in and reload the page to get the new hotness.
-        window.applicationCache.swapCache();
-        if (confirm('A new version of this site is available. Load it?')) {
-          window.location.reload();
-        }
-      } else {
-        // Manifest didn't changed. Nothing new to server.
-      }
-    }, false);
-
-  }, false);
 </script>
